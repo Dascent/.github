@@ -1,21 +1,52 @@
-<div id="aboutme" align="left">
-  <a href="https://zentasticarts.ro/profilul-meu/?uid=Dan"><img src="https://raw.githubusercontent.com/Dascent/zaro/main/dan.jpg" width="220" align="left"></a>
-  <h3>Hello World</h3>
-  <p><hr></p>
-  <p><em>Well, I'm multipurpose so I have lots of projects where I enjoy my time.</em><br>
-    <em>Due to diversity (I love), my passions are oscilating between making money and making a difference</em><br>
-    <em>Cofounder (mostley web designer) at CGC and CEO at ZentasticArts</em></p>
-  <p></p>
-  <p></p>
-  <p></p>
-  <p><hr></p>
-  <p align="right">Pseudonim: DAscent</p>
-</div>
+# Hi there, I'm Dascent 👋 
 
-<div id="badges" align="right">
-  <a href="https://www.facebook.com/Dan.ZentasticArts"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
-  <a href="https://www.youtube.com/channel/UCRLu-JwrS5GOF15ZCVpUJTQ"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
-  <a href="https://x.com/DascentSigils"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/></a>
-  <a href="https://www.tiktok.com/@dascent33"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/></a>
-   <a href="https://www.instagram.com/dan.zentasticarts/"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Zentastic%20Arts&fontSize=70&animation=fadeIn" />
+</p>
+
+### 🛠️ Creative Technologist & Security Enthusiast
+I specialize in building secure web applications and unique WordPress experiences. Currently focusing on hybrid encryption and anti-bot measures (like **Split CAPTCHA**).
+
+- 🔭 I’m currently working on **[Zaleator](https://zentasticarts.ro/aplicatii-web/zaleator/)**
+- ⚡ Fun fact: I believe security shouldn't ruin User Experience.
+- 💬 Ask me about: **Pwchi Project, Mira IP**
+
+---
+
+### 🚀 My Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dascent&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dascent&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Connect with me
+<p align="left">
+  <a href="https://zentasticarts.ro" target="_blank">
+    <img src="https://img.shields.io/badge/Website-zentasticarts.ro-blueviolet?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/dan_cle/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dascent&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
