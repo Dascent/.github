@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Dascent/.github/main/profile/banner.png" alt="Dascent - Esoteric Sigils & Arcane Web Applications" width="100%" />
+<img src="x-cover-dascent-sigils.jpg" alt="Dascent - Esoteric Sigils & Arcane Web Applications" width="100%" />
 
 # ⚡ D A S C E N T ⚡
 ### *The Persona Behind the Magic — Navigating Dimensions, Logic & Manifestation*
@@ -41,7 +41,7 @@
 | 🔮 **Entity Signature Sigil Reading** |
 | :--- |
 | A syncretic esoteric reading with both **visual** and **informative** output, crafted to bridge logic, intuition, and manifestation. |
-| <img src="https://raw.githubusercontent.com/Dascent/.github/refs/heads/main/profile/esoteric-reading-soul-blueprint.png" alt="Entity Signature Sigil Preview" width="600" /> |
+| <img src="https://raw.githubusercontent.com/Dascent/.github/refs/heads/main/profile/esoteric-reading-soul-blueprint.png" alt="Entity Signature Sigil Preview" width="600" style="margin:10px auto 12px auto;" /> |
 | [👉 **Discover & Order Your Signature Sigil Here** 👈](https://dascent-sigils.com/order-your-signature-sigil/) |
 
 </div>
